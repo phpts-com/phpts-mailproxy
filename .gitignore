@@ -1,0 +1,9 @@
+# 本地产物（构建产物不入库；发行二进制见 down.phpts.com 下载站）
+*.exe
+phpts-mailproxy
+phpts-mailproxy-linux-*
+
+# 编辑器 / 系统临时文件
+*.swp
+.DS_Store
+Thumbs.db
